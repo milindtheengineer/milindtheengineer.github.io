@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My custom title
+title: Milind Juttiga
 ---
 
 ## About Me
@@ -25,5 +25,3 @@ Jul 2017 - Apr 2019 | Engineer        | Target Tech
 May 2016 - Jul 2016 | Research Intern | IIT Bombay
 
 ---
-
-This is a jekyll based template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
