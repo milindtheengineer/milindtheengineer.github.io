@@ -1,6 +1,6 @@
 title: Milind Juttiga
 url: "https://milindtheengineer.github.io"
-baseurl: "/home"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/home/"
+   link: "/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
