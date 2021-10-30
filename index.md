@@ -11,7 +11,7 @@ Hi! I am a software developer last worked as a Lead Engineer at Target Tech. I g
 
 ## Area of Focus
 
-I worked mainly on large scale distributed systems. My projects have been instrumental in modernizing the compute infrastructure across datacenters and edge. Ocassionally I like work on embedded systems and mobile applications.
+I worked mainly on large scale distributed systems. My projects have been instrumental in modernizing the compute infrastructure across datacenters and edge. Ocassionally I work on embedded systems and mobile applications in my side projects.
 
 ## Technologies
 
