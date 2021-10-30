@@ -13,7 +13,11 @@ Hi! I am a software developer last worked as a Lead Engineer at Target Tech. I g
 
 I worked mainly on large scale distributed systems. My projects have been instrumental in modernizing the compute infrastructure across datacenters and edge. Ocassionally I like work on embedded systems and mobile applications.
 
-## Projects
+## Technologies
+
+Programming languages - Golang, Java, Ruby, Python, C
+Infrastructure - Ansible, Kubernetes, Drone, Docker
+
 
 ## Experience
 
