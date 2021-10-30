@@ -1,6 +1,7 @@
 ---
 layout: default
 is_contact: true
+title: Contact Milind
 ---
 
 * Email: [milindjuttiga@gmail.com](mailto:milindjuttiga@xyz.com)
