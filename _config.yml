@@ -1,6 +1,6 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Milind Juttiga
+url: "https://milindtheengineer.github.io"
+baseurl: "/home"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/ankitsultana/researcher"
+footer_text: "Theme researcher deployed using github pages"
 
 sass:
     style: compressed
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/home/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
