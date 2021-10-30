@@ -5,7 +5,7 @@ title: Milind Juttiga
 
 ## About Me
 
-<img class="profile-picture" src="milind.jpg">
+<img class="profile-picture" src="milind.jpeg">
 
 Hi! I am a software developer last worked as a Lead Engineer at Target Tech. I graduated from National Institute of Technology Karnataka Surathkal in 2017 with a degree in Electrical and Electronics Engineering.
 
