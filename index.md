@@ -1,5 +1,6 @@
 ---
 layout: default
+title: My custom title
 ---
 
 ## About Me
