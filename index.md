@@ -15,7 +15,7 @@ I worked mainly on large scale distributed systems. My projects have been instru
 
 ## Technologies
 
-Programming languages - Golang, Java, Ruby, Python, C
+Programming languages - Golang, Java, Ruby, Python, C<br />
 Infrastructure - Ansible, Kubernetes, Drone, Docker
 
 
