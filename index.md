@@ -18,14 +18,19 @@ I worked mainly on large scale distributed systems. My projects have been instru
 Programming languages - Golang, Java, Ruby, Python, C<br />
 Infrastructure - Ansible, Kubernetes, Drone, Docker
 
-
 ## Experience
 
-Duration            | Role            | Company
---------------------|-----------------|------------
-Aug 2021 - Oct 2021 | Lead Engineer   | Target Tech
-May 2019 - Aug 2021 | Senior Engineer | Target Tech
-Jul 2017 - Apr 2019 | Engineer        | Target Tech
-May 2016 - Jul 2016 | Research Intern | IIT Bombay
+| Duration            | Role            | Company     |
+| ------------------- | --------------- | ----------- |
+| Aug 2021 - Oct 2021 | Lead Engineer   | Target Tech |
+| May 2019 - Aug 2021 | Senior Engineer | Target Tech |
+| Jul 2017 - Apr 2019 | Engineer        | Target Tech |
+| May 2016 - Jul 2016 | Research Intern | IIT Bombay  |
+
+## Links to some of my fun side projects
+
+<a href="https://workout-tracker.13059596.xyz" target="_blank">Workout Tracker</a>
+<a href="https://maps-ui.13059596.xyz" target="_blank">Supercharger maps</a>
+<a href="https://stats.13059596.xyz" target="_blank">Uptime status of all my projects</a>
 
 ---
