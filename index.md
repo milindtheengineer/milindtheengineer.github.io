@@ -29,8 +29,8 @@ Infrastructure - Ansible, Kubernetes, Drone, Docker
 
 ## Links to some of my fun side projects
 
-<a href="https://workout-tracker.13059596.xyz" target="_blank">Workout Tracker</a>
-<a href="https://maps-ui.13059596.xyz" target="_blank">Supercharger maps</a>
-<a href="https://stats.13059596.xyz" target="_blank">Uptime status of all my projects</a>
+[Workout Tracker](https://workout-tracker.13059596.xyz)
+[Supercharger Maps](https://maps-ui.13059596.xyz)
+[Uptime status of all my projects](https://stats.13059596.xyz)
 
 ---
