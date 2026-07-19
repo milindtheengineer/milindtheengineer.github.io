@@ -8,7 +8,7 @@ description: Software Engineer at Meta focused on distributed systems, infrastru
 
 <img class="profile-picture" src="milind.jpeg" alt="Milind Juttiga">
 
-I’m a Software Engineer at Meta focused on distributed systems and infrastructure. Previously, I led compute platform work at Target Tech across datacenters and the edge. I studied Electrical and Electronics Engineering at [NITK Surathkal](https://www.nitk.ac.in/) and graduated in 2017.
+I’m a Software Engineer at Meta focused on distributed systems and infrastructure. My experience spans Meta, Atlassian, Target, and Lowe’s. I studied Electrical and Electronics Engineering at [NITK Surathkal](https://www.nitk.ac.in/) and graduated in 2017.
 
 ## Focus
 
@@ -21,14 +21,10 @@ Distributed systems, platform engineering, cloud infrastructure, and edge comput
 
 ## Experience
 
-| Period | Role | Company |
-| --- | --- | --- |
-| Current | Software Engineer | Meta |
-| Previously | Lead Engineer | Target Tech — US |
-| 2021–2022 | Lead Engineer | Lowe’s Tech — India |
-| 2019–2021 | Senior / Lead Engineer | Target Tech — India |
-| 2017–2019 | Engineer | Target Tech — India |
-| 2016 | Research Intern | IIT Bombay — India |
+1. Meta
+2. Atlassian
+3. Target
+4. Lowe’s
 
 ## Side Projects
 
