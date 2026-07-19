@@ -1,24 +1,36 @@
 title: Milind Juttiga
+author: Milind Juttiga
+email: milindjuttiga@gmail.com
+description: Lead engineer building resilient infrastructure, distributed systems, and useful side projects.
 url: "https://milindtheengineer.github.io"
-baseurl: "/"
+baseurl: ""
+lang: en-US
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
-
-tracking_id: #
-
-footer: no
-footer_url: "https://github.com/milindtheengineer"
-footer_text: "Milind Juttiga"
+permalink: pretty
 
 sass:
-    style: compressed
-    sass_dir: _sass
+  style: compressed
+  sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/"
- - name: "Projects"
-   link: "projects"
- - name: "Contact"
-   link: "contact"
+  - name: About
+    link: "/"
+  - name: Work
+    link: "/projects/"
+  - name: Contact
+    link: "/contact/"
+
+social:
+  - name: GitHub
+    handle: "@milindtheengineer"
+    link: "https://github.com/milindtheengineer"
+  - name: LinkedIn
+    handle: "/in/milindjuttiga"
+    link: "https://in.linkedin.com/in/milindjuttiga"
+  - name: X / Twitter
+    handle: "@milindjuttiga"
+    link: "https://twitter.com/milindjuttiga"
+
+footer: true
+footer_text: "Built with curiosity"
