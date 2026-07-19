@@ -2,15 +2,15 @@
 layout: default
 is_contact: true
 title: Contact Milind
+description: Get in touch with Milind Juttiga.
 ---
 
-* Email: [milindjuttiga@gmail.com](mailto:milindjuttiga@gmail.com)
+## Contact
 
+Email me at [milindjuttiga@gmail.com](mailto:milindjuttiga@gmail.com).
 
----
+## Elsewhere
 
-## Social
-
-1. [LinkedIn](https://in.linkedin.com/in/milindjuttiga)
-2. [Twitter](https://twitter.com/milindjuttiga?lang=en)
-3. [Github](https://github.com/milindtheengineer)
+- [LinkedIn](https://in.linkedin.com/in/milindjuttiga)
+- [Twitter / X](https://twitter.com/milindjuttiga)
+- [GitHub](https://github.com/milindtheengineer)

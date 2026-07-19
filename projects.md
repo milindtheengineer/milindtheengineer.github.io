@@ -1,15 +1,22 @@
 ---
 layout: default
 title: Milind's Projects
+description: Selected infrastructure work and side projects by Milind Juttiga.
 ---
 
-## Selected Work at Target Tech
+## Selected Work
+
 ### Grove
 
-Grove is a custom virtualization service built to power Target's PaaS, the [Target Application Platform (TAP)](https://youtu.be/cnHfK4MZA2Y). It runs application containers and sidecars inside virtual machine images on a purpose-built, lightweight Linux distribution. This provides lower overhead, better performance, and a stronger security baseline. Grove replaced Kubernetes across Target's datacenters, running on hundreds of clusters, and was on track to reach more than 1,800 edge clusters.
+Grove is a custom virtualization service built for Target’s Application Platform ([TAP](https://youtu.be/cnHfK4MZA2Y)). It runs application containers and sidecars inside lightweight virtual machine images, reducing overhead while improving security and performance. Grove replaced Kubernetes across hundreds of Target’s datacenter clusters and was being extended to more than 1,800 edge clusters.
 
 ### VMaaS
 
-VMaaS is a vertical-scaling virtualization service built on VMware vSphere and oVirt. ManageIQ, an open-source upstream project of Red Hat CloudForms, provides the orchestration layer, with Target-specific automation embedded into it.
+VMaaS is a vertical-scaling virtualization service built on VMware vSphere and oVirt. It uses ManageIQ as the orchestration layer with Target-specific automation. Together, Grove and VMaaS supported more than 90% of workloads deployed on Target’s private cloud.
 
-Together, Grove and VMaaS were responsible for more than 90 percent of the workloads deployed on Target's private cloud.
+## Side Projects
+
+- [Workout Tracker](https://workout-tracker.milindjuttiga.com) — Track your training.
+- [Supercharger Maps](https://chargeandchill.info) — Find your next charging stop.
+- [Mortgage & Invest](https://www.mortgageandinvest.xyz/) — Compare mortgage and investment decisions.
+- [Project status](https://status.13059596.xyz) — Check uptime for my projects.
