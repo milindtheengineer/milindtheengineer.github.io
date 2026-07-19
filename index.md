@@ -16,15 +16,12 @@ Distributed systems, platform engineering, cloud infrastructure, and edge comput
 
 ## Technologies
 
-**Languages:** Go, Java, Python, Ruby, C<br />
+**Languages:** Go, TypeScript, Java, Python, Ruby, C<br />
 **Frameworks & infrastructure:** React, Kubernetes, Docker, Linux, Ansible
 
 ## Experience
 
-1. Meta
-2. Atlassian
-3. Target
-4. Lowe’s
+Meta, Atlassian, Target, Lowe’s, IIT Bombay
 
 ## Side Projects
 
