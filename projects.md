@@ -3,13 +3,13 @@ layout: default
 title: Milind's Projects
 ---
 
-## Target Tech
+## Selected Work at Target Tech
 ### Grove
 
-Grove is a custom virtualization service written to power Target's PaaS Target Application Platform, [TAP](https://youtu.be/cnHfK4MZA2Y). Grove is used to run application containers embedded into a virtual machine image along with sidecars. A mini linux based distribution is specifically built to run these containers with less overhead, more performance and a much higher security. Currently this system replaced kubernetes on Target's datacenters running hundreds of clusters and is on route to be deployed onto 1800+ edge clusters.
+Grove is a custom virtualization service built to power Target's PaaS, the [Target Application Platform (TAP)](https://youtu.be/cnHfK4MZA2Y). It runs application containers and sidecars inside virtual machine images on a purpose-built, lightweight Linux distribution. This provides lower overhead, better performance, and a stronger security baseline. Grove replaced Kubernetes across Target's datacenters, running on hundreds of clusters, and was on track to reach more than 1,800 edge clusters.
 
 ### VMaaS
 
-This is a vertical scaling virtualization service that uses vmware's vsphere and ovirt. ManageIQ, an opensource upstream product of Redhat's cloudforms is used to build the orchestration layer with Target specific scripts embedded into it.
+VMaaS is a vertical-scaling virtualization service built on VMware vSphere and oVirt. ManageIQ, an open-source upstream project of Red Hat CloudForms, provides the orchestration layer, with Target-specific automation embedded into it.
 
-Grove and VMaaS together is resposible for more than 90 percent of workloads that get deployed on Target's private cloud
+Together, Grove and VMaaS were responsible for more than 90 percent of the workloads deployed on Target's private cloud.
