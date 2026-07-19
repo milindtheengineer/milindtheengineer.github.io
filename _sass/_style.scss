@@ -15,7 +15,7 @@ body, a { color: $ink; }
 a { text-decoration: none; }
 a:focus-visible, button:focus-visible { outline: 3px solid $accent; outline-offset: 4px; }
 img { max-width: 100%; display: block; }
-.container { width: min(calc(100% - 64px), $max-width); margin-inline: auto; }
+.container { width: calc(100% - 64px); max-width: $max-width; margin-inline: auto; }
 .site-shell { overflow: hidden; }
 .skip-link { position: absolute; left: 20px; top: -60px; z-index: 10; padding: 10px 16px; background: $ink; color: #fff; border-radius: 4px; }
 .skip-link:focus { top: 20px; }
@@ -59,7 +59,7 @@ h1 em, h2 span { color: $accent-text; font-style: normal; }
 .text-link { display: inline-flex; gap: 12px; align-items: center; color: $ink; font-size: 14px; font-weight: 700; border-bottom: 1px solid $ink; padding-bottom: 3px; }
 .text-link span { color: $accent-text; font-size: 18px; transition: transform .2s; }
 .text-link:hover span { transform: translateX(4px); }
-.hero-portrait { justify-self: end; width: min(100%, 370px); }
+.hero-portrait { justify-self: end; width: 100%; max-width: 370px; }
 .portrait-frame { position: relative; padding: 16px 16px 0 0; }
 .portrait-frame::before { content: ""; position: absolute; inset: 0 0 16px 16px; background: $lime; }
 .portrait-frame img { position: relative; width: 100%; aspect-ratio: 1; object-fit: cover; filter: saturate(.82); }
@@ -166,12 +166,12 @@ h2 { margin-bottom: 25px; font-size: clamp(36px, 4.5vw, 60px); font-weight: 600;
   .side-project-grid { grid-template-columns: repeat(2, 1fr); }
 }
 @media (max-width: 700px) {
-  .container { width: min(calc(100% - 40px), $max-width); }
+  .container { width: calc(100% - 40px); max-width: $max-width; }
   .site-header { min-height: 80px; align-items: start; padding-top: 21px; padding-bottom: 19px; gap: 18px; }
   .site-nav { flex-wrap: wrap; justify-content: end; gap: 7px 17px; }
   .nav-cta { padding: 6px 10px; }
   .hero { grid-template-columns: 1fr; min-height: 0; gap: 52px; padding-top: 72px; padding-bottom: 74px; }
-  .hero-portrait { justify-self: start; width: min(75vw, 330px); margin-left: 8px; }
+  .hero-portrait { justify-self: start; width: 75vw; max-width: 330px; margin-left: 8px; }
   .section { padding-top: 78px; padding-bottom: 78px; }
   .section-label { margin-bottom: 31px; }
   .about-grid, .project-detail-grid { grid-template-columns: 1fr; gap: 30px; }
