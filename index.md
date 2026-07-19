@@ -22,10 +22,3 @@ Distributed systems, platform engineering, cloud infrastructure, and edge comput
 ## Experience
 
 Meta, Atlassian, Target, Lowe’s, IIT Bombay
-
-## Side Projects
-
-- [Workout Tracker](https://workout-tracker.milindjuttiga.com)
-- [Supercharger Maps](https://chargeandchill.info)
-- [Mortgage & Invest](https://www.mortgageandinvest.xyz/)
-- [Project status](https://status.13059596.xyz)
